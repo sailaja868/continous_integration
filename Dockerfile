@@ -1,2 +1,2 @@
-FROM : maven-metadata
-COPY . /usr/share/maven-metdata
+FROM : httpd
+COPY . /usr/share/httpd
